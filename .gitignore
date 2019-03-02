@@ -2,10 +2,10 @@
 .classpath
 .project
 .settings
-
+.ide
  ##filter databfile、sln file##
 *.mdb
-*.ldb  
+*.ldb
 *.sln
 
 ##class file##
